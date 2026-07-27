@@ -1,4 +1,4 @@
-# Hi, I'm Zainab 👋
+# Hi, I'm Zainab ✨🌸
 
 ## About Me
 I'm an Information Technology student at Florida International University passionate about the intersection of technology and design. I enjoy creating user-centered digital experiences by combining full-stack development with thoughtful UX principles. My interests include web development, UX engineering, cloud computing, and cybersecurity, and I'm always exploring new ways to build technology that is both functional and intuitive.
