@@ -7,44 +7,50 @@ I'm an Information Technology student at **Florida International University Hono
 
 ## 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+**Frontend**
 
-### AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 
-### Cloud & Security
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge)
+**Backend & Databases**
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI / Machine Learning**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square)
+
+**Cloud, Security & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🚀 Featured Projects
 
 ### Kickstarter Crowdfunding Recommendation Engine
+
 **State Street × Break Through Tech AI Studio**
 
-🔗 [Repository](https://github.com/Break-Through-Tech/Global-Financial-Firm-1A-kickstarter-crowdfunding-recommendation-engine)
+[View Repository](https://github.com/Break-Through-Tech/Global-Financial-Firm-1A-kickstarter-crowdfunding-recommendation-engine)
 
 An industry-sponsored machine learning project focused on predicting Kickstarter campaign outcomes and generating recommendations for campaigns at risk of failure.
 
@@ -57,7 +63,8 @@ An industry-sponsored machine learning project focused on predicting Kickstarter
 ---
 
 ### JourneyOne
-🔗 [Repository](https://github.com/Zainu04/IAM-Platform)
+
+[View Repository](https://github.com/Zainu04/IAM-Platform)
 
 A full-stack IT onboarding and offboarding platform designed to streamline employee lifecycle management.
 
@@ -69,7 +76,8 @@ A full-stack IT onboarding and offboarding platform designed to streamline emplo
 ---
 
 ### Roamly
-🔗 [Repository](https://github.com/Zainu04/roamly)
+
+[View Repository](https://github.com/Zainu04/roamly)
 
 A full-featured travel community platform where users can share travel experiences, discover destinations, and engage with other travelers.
 
@@ -79,18 +87,19 @@ A full-featured travel community platform where users can share travel experienc
 
 **Technologies:** React, JavaScript, HTML, CSS, Local Storage
 
-
 ## 💼 Experience & Research
 
 ### AI/ML Fellow — Break Through Tech
+
 **Cornell Tech | State Street AI Studio | May 2026 – Present**
 
-- Collaborating on an industry-sponsored project analyzing **38,504 Kickstarter campaigns** to predict funding outcomes and generate recommendations.
-- Applying machine learning, data analysis, and model evaluation techniques to develop data-driven solutions.
+- Collaborating on an industry-sponsored AI/ML project, contributing to model development, evaluation, and data-driven recommendations.
+- Applying analytical problem-solving and model interpretation to communicate findings and support project decisions.
 
 ---
 
 ### CS & IT Tutor — FIU STARS
+
 **Florida International University | May 2026 – Present**
 
 - Provide peer tutoring to **60+ students across 7 CS and IT courses** in Java, Python, Linux, networking, and related subjects.
@@ -99,6 +108,7 @@ A full-featured travel community platform where users can share travel experienc
 ---
 
 ### Undergraduate Research Assistant — FIU HCI Lab
+
 **PonderMath | AI-Powered Mathematics Tutor**
 
 - Contributed to usability research examining student interactions with an AI-powered mathematics tutor.
@@ -106,27 +116,28 @@ A full-featured travel community platform where users can share travel experienc
 
 ## 🌱 Currently Learning
 
-- AWS Cloud
-- Security+
-- Full-stack development
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Security+](https://img.shields.io/badge/CompTIA_Security%2B-EA1D25?style=flat-square&logo=comptia&logoColor=white)
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-6C63FF?style=flat-square)
 
-## 🎨 Hobbies
+## 🎨 Beyond Tech
 
-- Baking
-- Photography
-- Video editing
-- Drawing
+🍰 Baking &nbsp; 📸 Photography &nbsp; 🎬 Video Editing &nbsp; 🎨 Drawing
 
 ## 🏆 Achievements & Professional Development
 
-- 🎓 Information Technology student in the Honors College at Florida International University
-- 🚀 AI/ML Fellow through Break Through Tech at Cornell Tech, collaborating on industry-focused projects while developing skills in machine learning, problem-solving, and technical communication
-- 💻 Completed CodePath Web Development curriculum (WEB101–WEB103), gaining hands-on experience building responsive web applications with modern development tools and frameworks
+- 💻 Completed CodePath Web Development curriculum (WEB101–WEB103), gaining hands-on experience building responsive web applications.
 - ⭐ Dean's List Recipient
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zainu04&theme=default)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zainu04&theme=default" alt="GitHub Profile Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainu04&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
 
 ## 📫 Contact
 
