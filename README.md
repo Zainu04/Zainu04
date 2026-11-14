@@ -114,20 +114,16 @@ A full-featured travel community platform where users can share travel experienc
 - Contributed to usability research examining student interactions with an AI-powered mathematics tutor.
 - Co-authored a research paper submitted to the **ACM CHI Conference on Human Factors in Computing Systems**.
 
-## 🌱 Currently Learning
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-EA1D25?style=flat-square&logo=comptia&logoColor=white)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-6C63FF?style=flat-square)
-
-## 🎨 Beyond Tech
-
-🍰 Baking &nbsp; 📸 Photography &nbsp; 🎬 Video Editing &nbsp; 🎨 Drawing
 
 ## 🏆 Achievements & Professional Development
 
+- 🎓 **Machine Learning Foundations Certificate** — Cornell Tech
 - 💻 Completed CodePath Web Development curriculum (WEB101–WEB103), gaining hands-on experience building responsive web applications.
 - ⭐ Dean's List Recipient
+
+ ## 🎨 Beyond Tech
+
+🍰 Baking &nbsp; 📸 Photography &nbsp; 🎬 Video Editing &nbsp; 🎨 Drawing
 
 ## 📊 GitHub Stats
 
