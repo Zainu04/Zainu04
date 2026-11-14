@@ -1,3 +1,4 @@
+
 # Hi, I'm Zainab ✨🌸
 
 ## 👩‍💻 About Me
@@ -37,7 +38,6 @@ I'm an Information Technology student at **Florida International University Hono
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ## 🚀 Featured Projects
 
@@ -79,16 +79,39 @@ A full-featured travel community platform where users can share travel experienc
 
 **Technologies:** React, JavaScript, HTML, CSS, Local Storage
 
+
+## 💼 Experience & Research
+
+### AI/ML Fellow — Break Through Tech
+**Cornell Tech | State Street AI Studio | May 2026 – Present**
+
+- Collaborating on an industry-sponsored project analyzing **38,504 Kickstarter campaigns** to predict funding outcomes and generate recommendations.
+- Applying machine learning, data analysis, and model evaluation techniques to develop data-driven solutions.
+
 ---
 
-**Tech:** React, JavaScript, HTML, CSS, Git
+### CS & IT Tutor — FIU STARS
+**Florida International University | May 2026 – Present**
+
+- Provide peer tutoring to **60+ students across 7 CS and IT courses** in Java, Python, Linux, networking, and related subjects.
+- Break down complex technical concepts and guide students through programming and computing challenges.
+
+---
+
+### Undergraduate Research Assistant — FIU HCI Lab
+**PonderMath | AI-Powered Mathematics Tutor**
+
+- Contributed to usability research examining student interactions with an AI-powered mathematics tutor.
+- Co-authored a research paper submitted to the **ACM CHI Conference on Human Factors in Computing Systems**.
 
 ## 🌱 Currently Learning
+
 - AWS Cloud
 - Security+
 - Full-stack development
 
 ## 🎨 Hobbies
+
 - Baking
 - Photography
 - Video editing
