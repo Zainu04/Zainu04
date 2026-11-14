@@ -1,7 +1,8 @@
 # Hi, I'm Zainab ✨🌸
 
-## About Me
-I'm an Information Technology student at Florida International University passionate about the intersection of technology and design. I enjoy creating user-centered digital experiences by combining full-stack development with thoughtful UX principles. My interests include web development, UX engineering, cloud computing, and cybersecurity, and I'm always exploring new ways to build technology that is both functional and intuitive.
+## 👩‍💻 About Me
+
+I'm an Information Technology student at **Florida International University Honors College** interested in **applied AI/ML and human-centered software development**. I enjoy building data-driven applications and intuitive digital experiences through machine learning, full-stack development, and UX research. I'm particularly interested in how intelligent technologies can solve practical problems while keeping users at the center of the design process.
 
 ## 💻 Tech Stack
 
@@ -40,25 +41,45 @@ I'm an Information Technology student at Florida International University passio
 
 ## 🚀 Featured Projects
 
+### Kickstarter Crowdfunding Recommendation Engine
+**State Street × Break Through Tech AI Studio**
+
+🔗 [Repository](https://github.com/Break-Through-Tech/Global-Financial-Firm-1A-kickstarter-crowdfunding-recommendation-engine)
+
+An industry-sponsored machine learning project focused on predicting Kickstarter campaign outcomes and generating recommendations for campaigns at risk of failure.
+
+- Analyzed **38,504 campaigns** and compared five classification models: Logistic Regression, Random Forest, K-Nearest Neighbors, XGBoost, and LightGBM.
+- Achieved **81.4% accuracy and 0.898 ROC-AUC** with the team's selected XGBoost model.
+- Contributed to exploratory data analysis, model interpretation, and a recommendation prototype for at-risk campaigns.
+
+**Technologies:** Python, Jupyter Notebook, XGBoost, LightGBM, SHAP
+
+---
+
 ### JourneyOne
 🔗 [Repository](https://github.com/Zainu04/IAM-Platform)
-A full-stack IT onboarding and offboarding platform designed to streamline employee lifecycle management. The platform centralizes access requests, equipment tracking, and onboarding workflows while implementing role-based access control (RBAC) to improve security, efficiency, and user experience. Achieved a **93% task completion rate** and a **90% System Usability Scale (SUS) score** during usability testing, demonstrating strong user effectiveness and overall satisfaction.
 
-**Tech:** React, Node.js, Express, PostgreSQL, Git
+A full-stack IT onboarding and offboarding platform designed to streamline employee lifecycle management.
+
+- The platform centralizes access requests, equipment tracking, and onboarding workflows while implementing role-based access control (RBAC) to improve security, efficiency, and user experience.
+- Achieved a **93% task completion rate** and a **90% System Usability Scale (SUS) score** during usability testing, demonstrating strong user effectiveness and overall satisfaction.
+
+**Technologies:** React, Node.js, Express, PostgreSQL, Git
 
 ---
 
 ### Roamly
 🔗 [Repository](https://github.com/Zainu04/roamly)
-A full-featured travel community platform where users can share travel experiences, discover destinations, and engage with other travelers. Built with complete CRUD functionality, interactive commenting and upvoting, search and filtering, responsive design, and customizable themes to create a seamless social experience.
 
-**Tech:** React, JavaScript, HTML, CSS, Local Storage
+A full-featured travel community platform where users can share travel experiences, discover destinations, and engage with other travelers.
+
+- Implemented **5 core features**: create, read, update, and delete (CRUD) operations, commenting, upvoting, search and filtering, and customizable themes.
+- Developed **2 interface modes** with light/dark themes and responsive layouts for a seamless user experience.
+- Integrated interactive community features to support content sharing, destination discovery, and user engagement.
+
+**Technologies:** React, JavaScript, HTML, CSS, Local Storage
 
 ---
-
-### FIU HCI Website
-🔗 [Repository](https://github.com/FIU-HCI/fiu-hci.github.io)
-A responsive website developed for Florida International University's Human-Computer Interaction Lab to showcase research, projects, publications, and team members. Focused on creating an accessible, modern user experience while improving navigation and highlighting the lab's research initiatives.
 
 **Tech:** React, JavaScript, HTML, CSS, Git
 
@@ -85,5 +106,6 @@ A responsive website developed for Florida International University's Human-Comp
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zainu04&theme=default)
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/zainabakhtar-it/
-- Email: zainabakhtar.tech@gmail.com
+
+- **LinkedIn:** [linkedin.com/in/zainabakhtar-it](https://www.linkedin.com/in/zainabakhtar-it/)
+- **Email:** [zainabakhtar.tech@gmail.com](mailto:zainabakhtar.tech@gmail.com)
